@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/start.png</file>
+        <file>resources/app_close.png</file>
+        <file>resources/app_icon.ico</file>
+        <file>resources/long_break.png</file>
+        <file>resources/pin.png</file>
+        <file>resources/short_break.png</file>
+    </qresource>
+</RCC>
